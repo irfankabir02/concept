@@ -8,7 +8,7 @@ import sys
 from typing import List
 # This file is meant to be run directly for now.
 # For package usage, the imports would be different.
-from websocket_client import ResearchWebSocketClient, Hint
+from .websocket_client import ResearchWebSocketClient, Hint
 import logging
 
 logger = logging.getLogger(__name__)

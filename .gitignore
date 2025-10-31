@@ -134,3 +134,10 @@ logs/
 *.pem
 temp/
 temp_*.json
+
+# Untracked directories (prevent embedded repo issues)
+Archives/
+automation-framework/
+bookshelf/
+history and time/
+research-space/
