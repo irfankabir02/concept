@@ -22,7 +22,7 @@ class TempoEngine:
     def get_structure_description(self) -> str:
         if self.toggle:
             return "quantized to BPM grid, predictable sequencing"
-        return "timing is fluid, sequencing based on manual arrangement or external cues"
+        return "freeform: timing is fluid, sequencing based on manual arrangement or external cues"
 
     def simulate_sequence(self, beats: int = 8):
         print("\n--- Tempo Simulation ---")
