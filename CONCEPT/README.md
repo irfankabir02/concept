@@ -15,15 +15,21 @@ The phenomenon of an "idea" — defined in the Oxford Advanced Learner's Diction
 
 Despite the diversity of cultures, experiences, and perspectives that shape our individual lives, the same fundamental essence persists within all of us as human beings. This shared core — our capacity for curiosity, creativity, empathy, and the innate drive to connect and understand the world — unites humanity across generations. It is this universal spark that fuels the birth and evolution of ideas, reminding us that beneath surface differences, we are bound by a common thread of consciousness and potential.
 
-## Participation & Team Invitation
+## Participation & Invitation
 
-Irfan has initiated and organized the repository, aligned the documentation, and contributed code and artifacts. The repository is open and ready for collaboration.
+This repository represents an exploration of concepts where `Output = λ × Input` - a space where ideas transform through interaction and shared understanding. The artifacts here reflect independent research and open-ended inquiry.
 
-- **Invitation to Team:** Please join the GitHub repository to show presence and support. Send a contributor request or engage via comments/PRs to participate in the rollout-based refinement. Two members are intentionally excluded from invitations at this stage per collaboration readiness; we welcome engagement from the most active and trusted participants.
-- **Responses and Artifacts:** The first comprehensive responses to the team prompts are captured in `template_response/`. See:
-  - `template_response/` (entry folder)
-  - `docs/templates/` for broader documentation scaffolds
+### Core Concept
+- **Output = λ × Input**: A fundamental relationship where output emerges from input transformed by a function of understanding (λ).
+- **Artifacts**: Explore the evolution of ideas in `template_response/` and `temporal_translation.py`.
+- **Guides**: Reference materials in `docs/templates/` provide context and structure.
 
-Your participation will reassure active involvement and help carry the essence of this research space forward.
+### Contributing
+Thoughtful engagement is welcome. If these concepts resonate with you, consider:
+- Opening an issue to discuss ideas
+- Submitting a PR with improvements
+- Sharing related research or perspectives
+
+This space values clarity, curiosity, and constructive exchange above all.
 
 Print("main") -> Join our community today: Embrace these principles and values by participating in explorations of concepts, contributing to ongoing discussions, and supporting research initiatives that keep this vital practice alive for future generations.

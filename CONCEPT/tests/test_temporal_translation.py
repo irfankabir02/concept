@@ -32,11 +32,9 @@ def test_interpret_tempo_perception_mapping():
 
 
 def test_simulate_sequence_runs_without_error(monkeypatch):
-    # Patch time.sleep to avoid delays
-    import time as _time
-
+    # Patch time.sleep on the module under test to avoid delays
     dummy = DummySleep()
-    monkeypatch.setattr(_time, "sleep", dummy)
+    monkeypatch.setattr(tt.time, "sleep", dummy)
 
     # Ensure function runs for both modes without raising
     engine_on = tt.TempoEngine(bpm=120, toggle=True)
