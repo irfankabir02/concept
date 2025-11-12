@@ -1,5 +1,7 @@
 # README
 
+[![Python package](https://github.com/irfankabir02/concept/actions/workflows/python-package.yml/badge.svg)](https://github.com/irfankabir02/concept/actions/workflows/python-package.yml)
+
 ## Definition of "Concept"
 
 According to the Oxford Advanced Learner's Dictionary:
