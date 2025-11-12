@@ -1,4 +1,4 @@
-# Atmosphere
+# CONCEPT
 
 This repository serves as a deliberate, slow-paced accumulation of knowledge. It is designed for thorough understanding, free from haste or superficiality.
 
